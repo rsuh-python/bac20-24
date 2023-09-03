@@ -2,6 +2,8 @@
 
 Материалы по курсу программирования в лингвистике для бакалавриата ФиПЛ набора 2020 года. 
 
+[Таблица оценок](https://docs.google.com/spreadsheets/d/1LNxOkYlk3gi9aZqv2SniCgFOZ90BjOhXoIkVglPYKhU/edit?usp=sharing)
+
 Краткая инструкция по Github для тех, кому она нужна:
 
 1. Установите [git](https://git-scm.com/downloads) - можно оставить дефолтные настройки
